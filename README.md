@@ -16,6 +16,7 @@
   - git branch -d {branch_name}
 
 - 커밋 히스토리 확인
+
   - git log --oneline --graph
   - `--oneline` : 간소화해서 출력
   - `--graph` : 그래프 형태로 출력
